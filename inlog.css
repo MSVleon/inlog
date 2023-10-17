@@ -1,0 +1,38 @@
+body {
+height: 100vh;
+
+}
+
+#inlog_hd {
+font-size: small;
+text-align: center;
+margin-top: -10%;
+width: 100%;
+border-radius: 30px;
+background-color: rgb(162, 158, 158);
+color: black;
+}
+
+#inlog_cn {
+margin-top: 30px;
+border: none;
+color: green;
+text-align: center;
+}
+
+#inlog_ft {
+text-align: left;
+}
+
+#open-btn {
+background-color: green;
+color: orange;
+}
+
+button {
+padding: 10px;
+background-color: black;
+color: palevioletred;
+border: 3px;
+border-radius: 10px;
+}
